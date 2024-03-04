@@ -175,24 +175,14 @@ main{
 
     }
  
-    /* .card-row img{
+     /* .card-row img{
        margin-top: 20px;
         display: flex;
         flex-direction: row;
        align-items: center;
        justify-content: center;
-    }
+    } */
 
-.learning {
-
-    
-  }
-   .learning h2{
-    text-align: center;
-  }
-  .learning h4{
-    text-align: center;
-  }  
   
   
     #typing-animation{
@@ -214,16 +204,11 @@ main{
 
 
 
+/*  */
+    @media screen and  (max-width: 600px){
+          
 
-
-/*     
-    @media  (max-width: 1500px){
-          .home{
-            height: 90vh;
           }
-           :root{
-            --h1-font: 4.8rem;
-           } */
 
 
 
